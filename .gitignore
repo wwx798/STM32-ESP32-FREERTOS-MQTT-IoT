@@ -23,3 +23,6 @@ Drivers/
 # 临时文件
 *.tmp
 *.bak
+# HAL 库和 FreeRTOS 内核源码（CubeMX 可自动生成）
+Drivers/
+Middlewares/
