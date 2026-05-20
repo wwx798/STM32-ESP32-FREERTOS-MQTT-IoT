@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls *)",
+      "Bash(find \"D:\\\\\\\\学习资料\\\\\\\\代码\\\\\\\\My Code\\\\\\\\ESP32\\\\\\\\ESP32_First\" -type f)"
+    ]
+  }
+}

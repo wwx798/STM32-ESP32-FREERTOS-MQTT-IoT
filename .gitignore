@@ -1,0 +1,25 @@
+# Keil MDK 编译输出
+*.uvguix.*
+*.scvd
+*.uvprojx
+*.ini
+/Listings/
+/Objects/
+*.o
+*.d
+*.crf
+*.lnp
+*.axf
+*.htm
+*.dep
+*.iex
+*.map
+*.build_log.htm
+*.tra
+
+# STM32 HAL 库（不需要上传，CubeMX 生成时自动包含）
+Drivers/
+
+# 临时文件
+*.tmp
+*.bak
